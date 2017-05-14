@@ -1,1 +1,1 @@
-# Attempt to mage google-homepage
+# An attempt to replicate google-homepage
