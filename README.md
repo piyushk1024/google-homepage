@@ -5,5 +5,5 @@ replicate the structure and look of the Google.com homepage.
 
 The page will be static and without functionality at this point of time.
 
-This prohect is part of theodinproject.com
+This project is part of theodinproject.com
 web developer [curriculum](http://www.theodinproject.com/web-development-101/html-css)
